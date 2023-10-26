@@ -40,5 +40,1785 @@
       "category": "Music",
       "price": 400
     }
+  ],
+
+  "quiz": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+      "correct_answer": "Putney",
+      "incorrect_answers": [
+      "Hammersmith",
+      "Vauxhall ",
+      "Battersea"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+      "correct_answer": "Nine",
+      "incorrect_answers": [
+      "Ten",
+      "Seven",
+      "Eight"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+      "correct_answer": "Jordan",
+      "incorrect_answers": [
+      "Benetton",
+      "Ferrari",
+      "Mercedes"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+      "correct_answer": "Hammer",
+      "incorrect_answers": [
+      "Wrench",
+      "Drill",
+      "Screwdriver"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+      "correct_answer": "Philadelphia Flyers",
+      "incorrect_answers": [
+      "New York Rangers",
+      "Toronto Maple Leafs",
+      "Boston Bruins"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+      "correct_answer": "Big Daddy",
+      "incorrect_answers": [
+      "Giant Haystacks",
+      "Kendo Nagasaki",
+      "Masambula"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+      "correct_answer": "Saints",
+      "incorrect_answers": [
+      "Harlequins",
+      "Saracens",
+      "Wasps"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": [
+      "Northampton Town",
+      "Bradford City",
+      "West Bromwich Albion"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which team won the 2015-16 English Premier League?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": [
+      "Liverpool",
+      "Cheslea",
+      "Manchester United"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many scoring zones are there on a conventional dart board?",
+      "correct_answer": "82",
+      "incorrect_answers": [
+      "62",
+      "42",
+      "102"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a game of snooker, what colour ball is worth 3 points?",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+      "Yellow",
+      "Brown",
+      "Blue"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "With which doubles partner did John McEnroe have most success?",
+      "correct_answer": "Peter Fleming",
+      "incorrect_answers": [
+      "Mark Woodforde",
+      "Michael Stich",
+      "Mary Carillo"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In baseball, how many fouls are an out?",
+      "correct_answer": "0",
+      "incorrect_answers": [
+      "5",
+      "3",
+      "2"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which nation hosted the FIFA World Cup in 2006?",
+      "correct_answer": "Germany",
+      "incorrect_answers": [
+      "United Kingdom",
+      "Brazil",
+      "South Africa"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The F1 season of 1994 is remembered for what tragic event?",
+      "correct_answer": "Death of Ayrton Senna (San Marino)",
+      "incorrect_answers": [
+      "The Showdown (Australia)",
+      "Verstappen on Fire (Germany)",
+      "Schumacher&#039;s Ban (Britain)"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the highest belt you can get in Taekwondo?",
+      "correct_answer": "Black",
+      "incorrect_answers": [
+      "White",
+      "Red",
+      "Green"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+      "correct_answer": "August 21",
+      "incorrect_answers": [
+      "August 23",
+      "August 19",
+      "August 17"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country has hosted the 2018 FIFA World Cup?",
+      "correct_answer": "Russia",
+      "incorrect_answers": [
+      "Germany",
+      "United States",
+      "Saudi Arabia"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the 2015 Formula 1 World Championship?",
+      "correct_answer": "Lewis Hamilton",
+      "incorrect_answers": [
+      "Nico Rosberg",
+      "Sebastian Vettel",
+      "Jenson Button"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Josh Mansour is part of what NRL team?",
+      "correct_answer": "Penrith Panthers",
+      "incorrect_answers": [
+      "Melbourne Storm",
+      "Sydney Roosters",
+      "North Queensland Cowboys"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+      "correct_answer": "Porsche",
+      "incorrect_answers": [
+      "Toyota",
+      "Audi",
+      "Ferrari"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+      "correct_answer": "Mazda",
+      "incorrect_answers": [
+      "Toyota",
+      "Subaru",
+      "Nissan"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+      "correct_answer": "DING Ning (China)",
+      "incorrect_answers": [
+      "LI Xiaoxia (China)",
+      "Ai FUKUHARA (Japan)",
+      "Song KIM (North Korea)"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+      "correct_answer": "Chile",
+      "incorrect_answers": [
+      "Argentina",
+      "Brazil",
+      "Colombia"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which team won 2014 FIFA World Cup in Brazil?",
+      "correct_answer": "Germany",
+      "incorrect_answers": [
+      "Argentina",
+      "Brazil",
+      "Netherlands"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+      "correct_answer": "Quebec City",
+      "incorrect_answers": [
+      "Houston",
+      "Montreal",
+      "New York"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What team won the 2016 MLS Cup?",
+      "correct_answer": "Seattle Sounders",
+      "incorrect_answers": [
+      "Colorado Rapids",
+      "Toronto FC",
+      "Montreal Impact"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the oldest team in the NFL?",
+      "correct_answer": "Arizona Cardinals",
+      "incorrect_answers": [
+      "Chicago Bears",
+      "Green Bay Packers",
+      "New York Giants"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+      "correct_answer": "US Open",
+      "incorrect_answers": [
+      "French Open",
+      "Wimbledon",
+      "Australian Open"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What year did the New Orleans Saints win the Super Bowl?",
+      "correct_answer": "2010",
+      "incorrect_answers": [
+      "2008",
+      "2009",
+      "2011"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+      "correct_answer": "84.39m",
+      "incorrect_answers": [
+      "100m",
+      "100yd",
+      "109.36yd"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which team has won the most Stanley Cups in the NHL?",
+      "correct_answer": "Montreal Canadians",
+      "incorrect_answers": [
+      "Chicago Blackhawks",
+      "Toronto Maple Leafs",
+      "Detroit Red Wings"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+      "correct_answer": "Jose Fernandez",
+      "incorrect_answers": [
+      "Jacob deGrom",
+      "Shelby Miller",
+      "Matt Harvey"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Why was The Green Monster at Fenway Park was originally built?",
+      "correct_answer": "To prevent viewing games from outside the park.",
+      "incorrect_answers": [
+      "To make getting home runs harder.",
+      "To display advertisements.",
+      "To provide extra seating."
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+      "correct_answer": "American Football",
+      "incorrect_answers": [
+      "Wrestling",
+      "Archery",
+      "Horse-Racing"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+      "correct_answer": "Mike Tyson",
+      "incorrect_answers": [
+      "Roy Jones Jr.",
+      "Evander Holyfield",
+      "Lennox Lewis"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what sport does Fanny Chmelar compete for Germany?",
+      "correct_answer": "Skiing",
+      "incorrect_answers": [
+      "Swimming",
+      "Showjumping",
+      "Gymnastics"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What team did England beat to win in the 1966 World Cup final?",
+      "correct_answer": "West Germany",
+      "incorrect_answers": [
+      "Soviet Union",
+      "Portugal",
+      "Brazil"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+      "correct_answer": "Roger Federer",
+      "incorrect_answers": [
+      "Bill Tilden",
+      "Boris Becker",
+      "Pete Sampras"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which African American is in part responsible for integrating  Major League baseball?",
+      "correct_answer": "Jackie Robinson",
+      "incorrect_answers": [
+      "Curt Flood",
+      "Roy Campanella",
+      "Satchell Paige"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Manchester United&#039;s home stadium?",
+      "correct_answer": "Old Trafford",
+      "incorrect_answers": [
+      "Anfield",
+      "City of Manchester Stadium",
+      "St James Park"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who did Steven Gerrard win the Champions League with?",
+      "correct_answer": "Liverpool",
+      "incorrect_answers": [
+      "Real Madrid",
+      "Chelsea",
+      "Man City"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which year did Jenson Button won his first ever Formula One World Drivers&#039; Championship?",
+      "correct_answer": "2009",
+      "incorrect_answers": [
+      "2010",
+      "2007",
+      "2006"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the topscorer for England national football team?",
+      "correct_answer": "Wayne Rooney",
+      "incorrect_answers": [
+      "David Beckham",
+      "Steven Gerrard",
+      "Michael Owen"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+      "correct_answer": "Lewis Hamilton",
+      "incorrect_answers": [
+      "Sebastian Vettel",
+      "Nico Rosberg",
+      "Max Verstappen"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who won the 2011 Stanley Cup?",
+      "correct_answer": "Boston Bruins",
+      "incorrect_answers": [
+      "Montreal Canadiens",
+      "New York Rangers",
+      "Toronto Maple Leafs"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+      "correct_answer": "Toronto Marlies",
+      "incorrect_answers": [
+      "Toronto Rock",
+      "Toronto Argonauts",
+      "Toronto Wolfpack"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+      "correct_answer": "Horse Racing",
+      "incorrect_answers": [
+      "Chess",
+      "Jousting",
+      "Fencing"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+      "correct_answer": "Vladivostok",
+      "incorrect_answers": [
+      "Rostov-on-Don",
+      "Yekaterinburg",
+      "Kaliningrad"
+      ]
+      },
+      {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Canadian football, scoring a rouge is worth how many points?",
+      "correct_answer": "1",
+      "incorrect_answers": [
+      "2",
+      "3",
+      "4"
+      ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In which city, is the Big Nickel located in Canada?",
+        "correct_answer": "Sudbury, Ontario",
+        "incorrect_answers": [
+        "Calgary, Alberta",
+        "Halifax, Nova Scotia ",
+        "Victoria, British Columbia"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which state of the United States is the smallest?",
+        "correct_answer": "Rhode Island ",
+        "incorrect_answers": [
+        "Maine",
+        "Vermont",
+        "Massachusetts"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the largest city and commercial capital of Sri Lanka?",
+        "correct_answer": "Colombo",
+        "incorrect_answers": [
+        "Moratuwa",
+        "Negombo",
+        "Kandy"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Montreal is in which Canadian province?",
+        "correct_answer": "Quebec",
+        "incorrect_answers": [
+        "Ontario",
+        "Nova Scotia",
+        "Alberta"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What state is the largest state of the United States of America?",
+        "correct_answer": "Alaska",
+        "incorrect_answers": [
+        "California",
+        "Texas",
+        "Washington"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these countries is NOT a part of the Asian continent?",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+        "Georgia",
+        "Russia",
+        "Singapore"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these is NOT an Australian state or territory?",
+        "correct_answer": "Alberta",
+        "incorrect_answers": [
+        "New South Wales",
+        "Victoria",
+        "Queensland"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which city is the capital of Switzerland?",
+        "correct_answer": "Bern",
+        "incorrect_answers": [
+        "Z&uuml;rich",
+        "Frankfurt",
+        "Wien"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What colour is the circle on the Japanese flag?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+        "White",
+        "Yellow",
+        "Black"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the capital of Denmark?",
+        "correct_answer": "Copenhagen",
+        "incorrect_answers": [
+        "Aarhus",
+        "Odense",
+        "Aalborg"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Kuala Lumpur is the capital of which country?",
+        "correct_answer": "Malaysia",
+        "incorrect_answers": [
+        "Indonesia",
+        "Singapore",
+        "Thailand"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+        "correct_answer": "Lishana Deni",
+        "incorrect_answers": [
+        "Hulaul&aacute;",
+        "Lishan Didan",
+        "Chaldean Neo-Aramaic"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which Russian oblast forms a border with Poland?",
+        "correct_answer": "Kaliningrad",
+        "incorrect_answers": [
+        "Samara",
+        "Nizhny Novgorod",
+        "Omsk"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
+        "correct_answer": "Urutora",
+        "incorrect_answers": [
+        "Rungata",
+        "London",
+        "Washington"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+        "Austria",
+        "Canada",
+        "Sweden"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?",
+        "correct_answer": "36,600",
+        "incorrect_answers": [
+        "2,400",
+        "90,000",
+        "323,400"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where is the area commonly known as the Bermuda Triangle?",
+        "correct_answer": "North Atlantic Ocean, between Florida and Puerto Rico",
+        "incorrect_answers": [
+        "North Pacific Ocean, between Japan and the USA",
+        "In the Caribbean Sea",
+        "South Pacific Ocean, far off Chile"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these is NOT an island that is part of the Philippines?",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+        "Luzon",
+        "Mindanao",
+        "Palawan"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The World Health Organization headquarters is located in which European country?",
+        "correct_answer": "Switzerland",
+        "incorrect_answers": [
+        "United Kingdom",
+        "France",
+        "Belgium"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many countries are larger than Australia?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+        "4",
+        "3",
+        "6"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What event led to Liechenstein adding a crown to its flag?",
+        "correct_answer": "The 1936 Olympics",
+        "incorrect_answers": [
+        "Coronation of Prince Johann I Joseph in 1805",
+        "Charles VI&#039;s decree in 1719",
+        "Signing of the 1862 Constitution of Liechtenstein"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the capital of Senegal?",
+        "correct_answer": "Dakar",
+        "incorrect_answers": [
+        "Nouakchott",
+        "Conakry",
+        "Monrovia"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which is the largest freshwater lake in the world?",
+        "correct_answer": "Lake Superior ",
+        "incorrect_answers": [
+        "Caspian Sea",
+        "Lake Michigan",
+        "Lake Huron"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the Capital of the United States?",
+        "correct_answer": "Washington, D.C.",
+        "incorrect_answers": [
+        "Los Angelas, CA",
+        "New York City, NY",
+        "Houston, TX"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Fucking is a village in which country?",
+        "correct_answer": "Austria",
+        "incorrect_answers": [
+        "Germany",
+        "Switzerland",
+        "Czech Republic"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the most populous Muslim-majority nation in 2010?",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+        "Saudi Arabia",
+        "Iran",
+        "Sudan"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which country was NOT formerly part of Yugoslavia?",
+        "correct_answer": "Albania",
+        "incorrect_answers": [
+        "Croatia",
+        "Serbia",
+        "Macedonia"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the official language of Bhutan?",
+        "correct_answer": "Dzongkha",
+        "incorrect_answers": [
+        "Ladakhi",
+        "Karen",
+        "Groma"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the official German name of the Swiss Federal Railways?",
+        "correct_answer": "Schweizerische Bundesbahnen",
+        "incorrect_answers": [
+        "Schweizerische Nationalbahnen",
+        "Bundesbahnen der Schweiz",
+        "Schweizerische Staatsbahnen"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of the Canadian national anthem?",
+        "correct_answer": "O Canada",
+        "incorrect_answers": [
+        "O Red Maple",
+        "Leaf-Spangled Banner",
+        "March of the Puck Drop"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is Canada&#039;s smallest province?",
+        "correct_answer": "Prince Edward Island",
+        "incorrect_answers": [
+        "New Brunswick",
+        "Nova Scotia",
+        "Yukon"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of rocky region that spans most of eastern Canada?",
+        "correct_answer": "Canadian Shield",
+        "incorrect_answers": [
+        "Rocky Mountains",
+        "Appalachian Mountains",
+        "Himalayas"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many stars are featured on New Zealand&#039;s flag?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+        "5",
+        "2",
+        "0"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the second-largest city in Lithuania?",
+        "correct_answer": "Kaunas",
+        "incorrect_answers": [
+        "Panevėžys",
+        "Vilnius",
+        "Klaipėda"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the capital of Spain?",
+        "correct_answer": "Madrid",
+        "incorrect_answers": [
+        "Barcelona",
+        "Sevilla",
+        "Toledo"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these countries is the smallest by population?",
+        "correct_answer": "Norway",
+        "incorrect_answers": [
+        "Slovakia",
+        "Finland",
+        "Hong Kong"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Broome is a town in which state of Australia?",
+        "correct_answer": "Western Australia",
+        "incorrect_answers": [
+        "Northern Territory",
+        "South Australia",
+        "Tasmania"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+        "Vietnam",
+        "Thailand",
+        "Indonesia"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the largest country in the world?",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+        "Canada",
+        "China",
+        "United States"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many stations does the Central Line have on the London Underground?",
+        "correct_answer": "49",
+        "incorrect_answers": [
+        "51",
+        "43",
+        "47"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these country&#039;s capitals starts with the letter B?",
+        "correct_answer": "Lebanon",
+        "incorrect_answers": [
+        "Jordan",
+        "Kuwait",
+        "Qatar"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The Alps are a mountain range on which continent?",
+        "correct_answer": "Europe",
+        "incorrect_answers": [
+        "North America",
+        "Asia",
+        "Africa"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the northernmost human settlement with year round inhabitants?",
+        "correct_answer": "Alert, Canada",
+        "incorrect_answers": [
+        "Nagurskoye, Russia",
+        "McMurdo Station, Antarctica ",
+        "Honningsv&aring;g, Norway"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the capital of Greenland?",
+        "correct_answer": "Nuuk",
+        "incorrect_answers": [
+        "Sisimiut",
+        "Narsaq",
+        "Maniitsoq"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many time zones are in Russia?",
+        "correct_answer": "11",
+        "incorrect_answers": [
+        "8",
+        "5",
+        "2"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many provinces are in the Netherlands?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+        "14",
+        "10",
+        "13"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The longest shared border in the world can be found between which two nations?",
+        "correct_answer": "Canada and the United States",
+        "incorrect_answers": [
+        "Chile and Argentina",
+        "Russia and China",
+        "India and Pakistan"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which is not a country in Africa?",
+        "correct_answer": "Guyana",
+        "incorrect_answers": [
+        "Senegal",
+        "Liberia",
+        "Somalia"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is not a megadiverse country - one that harbors a high number of the earth&#039;s endemic species?",
+        "correct_answer": "Thailand",
+        "incorrect_answers": [
+        "Peru",
+        "Mexico",
+        "South Africa"
+        ]
+        },
+        {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these American cities has fewer than 1,000,000 people?",
+        "correct_answer": "San Francisco, California",
+        "incorrect_answers": [
+        "Phoenix, Arizona",
+        "San Antonio, Texas",
+        "Philadelphia, Pennsylvania"
+        ]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "According to the BBPA, what is the most common pub name in the UK?",
+          "correct_answer": "Red Lion",
+          "incorrect_answers": [
+          "Royal Oak",
+          "White Hart",
+          "King&#039;s Head"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the world&#039;s most expensive spice by weight?",
+          "correct_answer": "Saffron",
+          "incorrect_answers": [
+          "Cinnamon",
+          "Cardamom",
+          "Vanilla"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which company did Valve cooperate with in the creation of the Vive?",
+          "correct_answer": "HTC",
+          "incorrect_answers": [
+          "Oculus",
+          "Google",
+          "Razer"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+          "correct_answer": "July 4, 1776",
+          "incorrect_answers": [
+          "May 4, 1776",
+          "June 4, 1776",
+          "July 2, 1776"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+          "correct_answer": "Cabbage Patch Kids",
+          "incorrect_answers": [
+          "Transformers",
+          "Care Bears",
+          "Rubik&rsquo;s Cube"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Area 51 is located in which US state?",
+          "correct_answer": "Nevada",
+          "incorrect_answers": [
+          "Arizona",
+          "New Mexico",
+          "Utah"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "How would one say goodbye in Spanish?",
+          "correct_answer": "Adi&oacute;s",
+          "incorrect_answers": [
+          " Hola",
+          "Au Revoir",
+          "Salir"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Scotch whisky and Drambuie make up which cocktail?",
+          "correct_answer": "Rusty Nail",
+          "incorrect_answers": [
+          "Screwdriver",
+          "Sex on the Beach",
+          "Manhattan"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which language is NOT Indo-European?",
+          "correct_answer": "Hungarian",
+          "incorrect_answers": [
+          "Russian",
+          "Greek",
+          "Latvian"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is &quot;dabbing&quot;?",
+          "correct_answer": "A dance",
+          "incorrect_answers": [
+          "A medical procedure",
+          "A sport",
+          "A language"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which one of the following rhythm games was made by Harmonix?",
+          "correct_answer": "Rock Band",
+          "incorrect_answers": [
+          "Meat Beat Mania",
+          "Guitar Hero Live",
+          "Dance Dance Revolution"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the name of the very first video uploaded to YouTube?",
+          "correct_answer": "Me at the zoo",
+          "incorrect_answers": [
+          "tribute",
+          "carrie rides a truck",
+          "Her new puppy from great grandpa vern."
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+          "correct_answer": "Parlor",
+          "incorrect_answers": [
+          "Open Room",
+          "Sitting Room",
+          "Loft"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "How many colors are there in a rainbow?",
+          "correct_answer": "7",
+          "incorrect_answers": [
+          "8",
+          "9",
+          "10"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Which of the following is not another name for the eggplant?",
+          "correct_answer": "Potimarron",
+          "incorrect_answers": [
+          "Brinjal",
+          "Guinea Squash",
+          "Melongene"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the unit of currency in Laos?",
+          "correct_answer": "Kip",
+          "incorrect_answers": [
+          "Ruble",
+          "Konra",
+          "Dollar"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+          "correct_answer": "The Goth Family",
+          "incorrect_answers": [
+          "The Family",
+          "The Simoleon Family",
+          "The Proud Family"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What alcoholic drink is mainly made from juniper berries?",
+          "correct_answer": "Gin",
+          "incorrect_answers": [
+          "Vodka",
+          "Rum",
+          "Tequila"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is the Spanish word for &quot;donkey&quot;?",
+          "correct_answer": "Burro",
+          "incorrect_answers": [
+          "Caballo",
+          "Toro",
+          "Perro"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+          "correct_answer": "Feiji",
+          "incorrect_answers": [
+          "Qiche",
+          "Zongxian",
+          "Huojian"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+          "correct_answer": "Qamar",
+          "incorrect_answers": [
+          "Najma",
+          "Kawkab",
+          "Shams"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the Italian word for &quot;tomato&quot;?",
+          "correct_answer": "Pomodoro",
+          "incorrect_answers": [
+          "Aglio",
+          "Cipolla",
+          "Peperoncino"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the romanized Russian word for &quot;winter&quot;?",
+          "correct_answer": "Zima",
+          "incorrect_answers": [
+          "Leto",
+          "Vesna",
+          "Osen&#039;"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+          "correct_answer": "India",
+          "incorrect_answers": [
+          "United States of America",
+          "Soviet Union",
+          "Poland"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "On average, Americans consume 100 pounds of what per second?",
+          "correct_answer": "Chocolate",
+          "incorrect_answers": [
+          "Potatoes",
+          "Donuts",
+          "Cocaine"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the last letter of the Greek alphabet?",
+          "correct_answer": "Omega",
+          "incorrect_answers": [
+          "Mu",
+          "Epsilon",
+          "Kappa"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+          "correct_answer": "1 Month",
+          "incorrect_answers": [
+          "3 Weeks",
+          "1 Week",
+          "2 Months"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+          "correct_answer": "D. G. Yuengling and Son, Inc",
+          "incorrect_answers": [
+          "Anheuser Busch",
+          "Boston Beer Company",
+          "Miller Coors"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What year was Apple Inc. founded?",
+          "correct_answer": "1976",
+          "incorrect_answers": [
+          "1978",
+          "1980",
+          "1974"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+          "correct_answer": "Libra",
+          "incorrect_answers": [
+          "Gemini",
+          "Taurus",
+          "Capricorn"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Chartreuse is a color between yellow and what?",
+          "correct_answer": "Green",
+          "incorrect_answers": [
+          "Red",
+          "Black",
+          "Purple"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which of these words means &quot;idle spectator&quot;?",
+          "correct_answer": "Gongoozler",
+          "incorrect_answers": [
+          "Gossypiboma",
+          "Jentacular",
+          "Meupareunia"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "The Quadrangularis Reversum is best described as which of the following?",
+          "correct_answer": "A percussion instrument",
+          "incorrect_answers": [
+          "A building in Oxford University",
+          "A chess move",
+          "A geometric theorem"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Where is Apple Inc. headquartered?",
+          "correct_answer": "Cupertino, California",
+          "incorrect_answers": [
+          "Redwood City, California",
+          "Redmond, Washington",
+          "Santa Monica, CA"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which country has the most Trappist breweries?",
+          "correct_answer": "Belgium",
+          "incorrect_answers": [
+          "Netherlands",
+          "France",
+          "USA"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+          "correct_answer": "Plum",
+          "incorrect_answers": [
+          "Apple",
+          "Peach",
+          "Pear"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What is the star sign of someone born on Valentines day?",
+          "correct_answer": "Aquarius",
+          "incorrect_answers": [
+          "Pisces",
+          "Capricorn",
+          "Scorpio"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+          "correct_answer": "St. Peter&#039;s Basilica",
+          "incorrect_answers": [
+          "Catania Cathedral",
+          "St. Mark&rsquo;s Basilica",
+          "The Duomo of Florence"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "If you planted the seeds of Quercus robur, what would grow?",
+          "correct_answer": "Trees",
+          "incorrect_answers": [
+          "Grains",
+          "Vegetables",
+          "Flowers"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "The Flag of the European Union has how many stars on it?",
+          "correct_answer": "12",
+          "incorrect_answers": [
+          "10",
+          "14",
+          "16"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "When one is &quot;envious&quot;, they are said to be what color?",
+          "correct_answer": "Green",
+          "incorrect_answers": [
+          "Red",
+          "Blue",
+          "Yellow"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+          "correct_answer": "The Shatter&#039;s",
+          "incorrect_answers": [
+          "Snake Pit",
+          "The Tomb of the Acient&#039;s",
+          "The Puppet Master&#039;s Theater"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What are Panama hats made out of?",
+          "correct_answer": "Straw",
+          "incorrect_answers": [
+          "Silk",
+          "Hemp",
+          "Flax"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which of the following blood component forms a plug at the site of injuries?",
+          "correct_answer": "Platelets",
+          "incorrect_answers": [
+          "Red blood cells",
+          "White blood cells",
+          "Blood plasma"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+          "correct_answer": "Model",
+          "incorrect_answers": [
+          "Professor",
+          "Biologist",
+          "Musician"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Who invented the first ever chocolate bar, in 1847?",
+          "correct_answer": "Joseph Fry",
+          "incorrect_answers": [
+          "Andrew Johnson",
+          "John Cadbury",
+          "John Tyler"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "In aerodynamics, which force pushes an object upwards?",
+          "correct_answer": "Lift",
+          "incorrect_answers": [
+          "Drag",
+          "Weight",
+          "Thrust"
+          ]
+          },
+          {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is the official language of Brazil?",
+          "correct_answer": "Portugese",
+          "incorrect_answers": [
+          "Brazilian",
+          "Spanish",
+          "English"
+          ]
+          }
+
   ]
 }
