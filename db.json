@@ -34,6 +34,27 @@
       "lastName":"Ryssa",
       "email": "athenaRyssa@gmail.com",
       "department": "IT Department"
+    },
+    {
+      "id": 6,
+      "firstName": "Esmerslda",
+      "lastName":"Stock",
+      "email": "esmersldaStock@gmail.com",
+      "department": "Marketing Department"
+    },
+    {
+      "id": 7,
+      "firstName": "Adriana",
+      "lastName":"Madrid",
+      "email": "adriana@gmail.com",
+      "department": "Production Department"
+    },
+    {
+      "id": 8,
+      "firstName": "Tony",
+      "lastName":"Stark",
+      "email": "tonyStark@gmail.com",
+      "department": "HR Department"
     }
   ]
 }
