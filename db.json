@@ -20,6 +20,20 @@
       "lastName":"Ethan",
       "email": "adelinaEthan@gmail.com",
       "department": "Sales Department"
+    },
+    {
+      "id": 4,
+      "firstName": "Shy",
+      "lastName":"Magpie",
+      "email": "shyMagpie@gmail.com",
+      "department": "Production Department"
+    },
+    {
+      "id": 5,
+      "firstName": "Athena",
+      "lastName":"Ryssa",
+      "email": "athenaRyssa@gmail.com",
+      "department": "IT Department"
     }
   ]
 }
