@@ -55,6 +55,13 @@
       "lastName":"Stark",
       "email": "tonyStark@gmail.com",
       "department": "HR Department"
+    },
+    {
+      "id": 9,
+      "firstName": "Black",
+      "lastName":"Widow",
+      "email": "blackWidow@gmail.com",
+      "department": "Marketing Department"
     }
   ]
 }
