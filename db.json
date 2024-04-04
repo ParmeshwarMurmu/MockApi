@@ -157,5 +157,43 @@
       "updatedAt": "2023-11-23T07:38:46.000Z",
       "deletedAt": null
     }
+  ],
+  "customers": [
+    {
+      
+      "id": 1,
+      "name": "John Doe",
+      "title": "To Kill a Mockingbird: A Story of Justice and Humanity in the American South",
+      "address": "123 Main St, Anytown, USA",
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAdUiFZPYsV9GElJrpQ1DG3NgRGvZNavWq3uHuT5ClfvxaCuAGrpwiYfS0dZqIOR0dzRQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUH83ZQDhe-yWi5rU8LpxJd0Apn5lb757qKFPMMGv_9L6ClwMjNnM1pzbjUNTiAGgyZk&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNUioSFOJEIiaC2L40ibxPpNTG1bothlLHJg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0OZGPUZGGgjVNVB0-gfqRMlQHLgb8uTirNw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWd-W07Thb0UQBZwzGH1rR-z8qJOrJg2BjIA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBl6ufJFJGyNB-fT6y64pWbYBCZALEjPJ9dA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzWrwfssdLPocQAsp3O1HKwImXyAWaNyAYQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrSiQiNG165SPSsb43WneKkJd1ppmN8HGYA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYx5nzphxCBe0ju6GweowmHGieBLq_oPissg&s"
+      ]
+    },
+    {
+      
+      "id": 2,
+      "name": "John Doe",
+      "title": "The Lord of the Rings: The Fellowship of the Ring - A Journey into Middle-earth",
+      "address": "123 Main St, Anytown, USA",
+      "photos": [
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    }
   ]
 }
