@@ -159,9 +159,34 @@
     }
   ],
   "customers": [
+
     {
       
       "id": 1,
+      "name": "Robert Downey",
+      "title": "Iron Man is a fictional superhero who wears a suit of armor. His alter ego is Anthony Edward ''Tony'' Stark. He was created by Stan Lee, Jack Kirby and Larry Lieber for Marvel Comics in Tales of Suspense #39 in the year 1963[1] and appears in their comic books. ",
+      "address": "10880 Malibu Point, 90265.",
+      "photos": [
+        "https://images8.alphacoders.com/134/1349530.png",
+        "https://wallpapercave.com/wp/wp3703403.jpg",
+        "https://wallpapercave.com/wp/wp2695144.jpg",
+        "https://getwallpapers.com/wallpaper/full/c/7/e/129002.jpg",
+        "https://4kwallpapers.com/images/wallpapers/iron-man-marvel-superheroes-amoled-pitch-black-minimal-art-1920x1200-6293.png",
+        "https://m.media-amazon.com/images/I/61Gn0KqLX9L._AC_UF1000,1000_QL80_.jpg",
+        "https://www.pixel4k.com/wp-content/uploads/2019/06/i-am-iron-man-avengers-endgame-4k_1559764297.jpg.webp",
+        "https://www.hdwallpapers.in/download/iron_man_4k_8-1366x768.jpg",
+        "https://images.wallpapersden.com/image/download/iron-man-giant-hand_bGhuZWeUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+        "https://wallpapers.com/images/featured/iron-man-superhero-ponky3hlfivddo2m.jpg",
+        "https://4kwallpapers.com/images/wallpapers/iron-man-marvel-superheroes-marvel-comics-1920x1080-7871.jpg",
+        "https://w0.peakpx.com/wallpaper/248/100/HD-wallpaper-iron-man-marvel-iron-man.jpg",
+        "https://www.wallpapers13.com/wp-content/uploads/2017/03/Avengers-Tony-Stark-Iron-Man-Movie-HD-Wallpaper-2880x1800.jpg",
+        "https://www.hdwallpapers.in/download/iron_man_2-HD.jpg",
+        "https://w.forfun.com/fetch/93/93c7a763633943dca01cd4dfeef36e5c.jpeg"
+      ]
+    },
+    {
+      
+      "id": 2,
       "name": "Doctor Strange",
       "title": "Doctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 14th film in the Marvel Cinematic Universe (MCU). The film was directed by Scott Derrickson from a screenplay he wrote with Jon Spaihts and C. Robert Cargill, and stars Benedict Cumberbatch as neurosurgeon Stephen Strange along with Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin Bratt, Scott Adkins, Mads Mikkelsen, and Tilda Swinton. In the film, Strange learns the mystic arts after a career-ending car crash.",
       "address": "177 Bleecker Street, New York City",
@@ -186,9 +211,9 @@
     },
     {
       
-      "id": 2,
+      "id": 3,
       "name": "Peter Parker",
-      "title": "Spider-Man, comic-book character who was the original everyman superhero. In Spider-Man’s first story, in Marvel Comics’ Amazing Fantasy, no. 15 (1962), American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, speed, and agility along with the ability to cling to walls. Writer Stan Lee and illustrator Steve Ditko created Spider-Man as a filler story for a canceled anthology series. At the time, a teenage lead hero was unheard of in comic books. However, young readers responded powerfully to Peter Parker, prompting an ongoing title and, ultimately, a media empire, including video games, several animated and one live-action television series, a live-action film franchise, and a Broadway musical.",
+      "title": "Spider-Man, comic-book character who was the original everyman superhero. In Spider-Man’s first story, in Marvel Comics’ Amazing Fantasy, no. 15 (1962), American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, speed, and agility along with the ability to cling to walls. Writer Stan Lee and illustrator Steve Ditko created Spider-Man as a filler story for a canceled anthology series. At the time, a teenage lead hero was unheard of in comic books. However, young readers responded powerfully to Peter Parker, prompting an ongoing title and, ultimately, a media empire, including video games.",
       "address": "20 Ingram Street in Forest Hills, Queens",
       "photos": [
         "https://st3.depositphotos.com/5663636/13836/i/450/depositphotos_138369140-stock-photo-pattaya-thailand-december-31-2016.jpg",
@@ -208,5 +233,7 @@
         "https://images4.alphacoders.com/130/1300578.jpg"
       ]
     }
+
+    
   ]
 }
